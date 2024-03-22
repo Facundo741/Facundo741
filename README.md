@@ -27,6 +27,8 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
   <img width="25" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
 </div>
 
