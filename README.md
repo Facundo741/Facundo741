@@ -37,7 +37,9 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/fnsantillan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
