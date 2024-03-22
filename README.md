@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hey there! I'm Facundo</h1>
+<h1 align="center">👋 Hola! Soy Facundo</h1>
 
 ###
 
-<h3 align="center">I am an information systems engineering student and MERN developer 💻</h3>
+<h3 align="center">Soy estudiante de Ingeniería en Sistemas de Información y desarrollador MERN. 💻</h3>
 
 ###
 
-<h3 align="left">Skills / Tech Stack 🛠️</h3>
+<h3 align="left">Tecnologías 🛠️</h3>
 
 ###
 
