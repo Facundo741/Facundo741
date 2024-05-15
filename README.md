@@ -21,6 +21,8 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
   <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="materialui logo"  />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
@@ -43,5 +45,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-###
