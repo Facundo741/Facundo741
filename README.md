@@ -2,7 +2,7 @@
 
 <h3 align="center">Soy estudiante de Ingeniería en Sistemas de Información y desarrollador MERN. 💻</h3>
 
-<h3 align="left">Tecnologías 🛠️</h3>
+<h3 align="left">Tecnologías 🛠️:</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" style="margin-right: 20px;" />
@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" style="margin-right: 20px;" />
 </div>
 
-<h3 align="left">Aprendiendo</h3>
+<h3 align="left">Aprendiendo:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" style="margin-right: 20px;" />
