@@ -1,16 +1,8 @@
 <h1 align="center">👋 Hola! Soy Facundo</h1>
 
-###
-
 <h2 align="center">Soy estudiante de Ingeniería en Sistemas de Información y desarrollador MERN. 💻</h2>
 
-###
-
 <h3 align="left">Tecnologías 🛠️</h3>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
@@ -36,26 +28,16 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
 </div>
 
-###
-
 <h3 align="left">Aprendiendo:</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
 </div>
 
-###
-
 <h3 align="left">Contacto:</h3>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fnsantillan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo" " />
   </a>
 </div>
-
-###
