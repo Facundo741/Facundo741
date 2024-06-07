@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
 </div>
 
-<h3 align="left">Aprendiendo:</h3>
+<h3 align="left">Actualmente aprendiendo:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
