@@ -2,7 +2,7 @@
 
 <h2 align="center">Soy estudiante de Ingeniería en Sistemas de Información y desarrollador MERN. 💻</h2>
 
-<h3 align="left">Tecnologías 🛠️</h3>
+<h2 align="left">Tecnologías 🛠️</h2>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
@@ -28,7 +28,7 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
 </div>
 
-<h3 align="left">Actualmente aprendiendo:</h3>
+<h2 align="left">Actualmente aprendiendo:</h2>
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo"  />
@@ -37,7 +37,7 @@
 </div>
 
 
-<h3 align="left">Contacto:</h3>
+<h2 align="left">Contacto:</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fnsantillan" target="_blank">
