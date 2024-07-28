@@ -15,13 +15,8 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo" style="vertical-align: middle; margin-right: 35px;" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo" style="vertical-align: middle; margin-right: 35px;" />
   <img src="https://cdn.simpleicons.org/express/000000" height="50" alt="express logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo" style="vertical-align: middle;" />
-</div>
-
-<h2 align="left">Actualmente aprendiendo:</h2>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo" style="vertical-align: middle; margin-right: 35px;" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo" style="vertical-align: middle; margin-right: 35px;" " />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo" style="vertical-align: middle; margin-right: 35px;" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" style="vertical-align: middle;" />
 </div>
 
