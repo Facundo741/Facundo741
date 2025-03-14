@@ -1,24 +1,36 @@
 <h1 align="center">👋 Hola! Soy Facundo</h1>
 
+
 <h2 align="center">Soy estudiante de Ingeniería en Sistemas de Información y desarrollador MERN. 💻</h2>
 
 <h2 align="left">Tecnologías 🛠️</h2>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="bootstrap logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="50" alt="materialui logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="50" alt="express logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo" style="vertical-align: middle; margin-right: 35px;" " />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" style="vertical-align: middle; margin-right: 35px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="25" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
 </div>
 
 <h2 align="left">Contacto:</h2>
