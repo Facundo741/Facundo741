@@ -16,8 +16,9 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo" style="vertical-align: middle; margin-right: 35px;" />
   <img src="https://cdn.simpleicons.org/express/000000" height="50" alt="express logo" style="vertical-align: middle; margin-right: 35px;" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo" style="vertical-align: middle; margin-right: 35px;" " />
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo" style="vertical-align: middle; margin-right: 35px;" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" style="vertical-align: middle;" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo" style="vertical-align: middle; margin-right: 35px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" style="vertical-align: middle; margin-right: 35px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" style="vertical-align: middle; margin-right: 35px;" />
 </div>
 
 <h2 align="left">Contacto:</h2>
@@ -27,3 +28,5 @@
       <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" alt="linkedin logo" style="vertical-align: middle;" />
   </a>
 </div>
+
+
