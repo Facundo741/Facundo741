@@ -18,7 +18,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt
+="mongodb logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
   <img width="12" />
@@ -37,7 +38,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fnsantillan" target="_blank">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" alt="linkedin logo" style="vertical-align: middle;" />
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
