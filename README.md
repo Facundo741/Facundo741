@@ -37,9 +37,10 @@
 <h2 align="left">Contacto:</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/fnsantillan" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/fnsantillan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
+
 
 
