@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Facundo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&lines=💻+Desarrollador+Backend+;📚+Estudiante+de+Ingeniería+en+Sistemas+de+Información;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=800&lines=💻+Desarrollador+Backend;📚+Estudiante+de+Ingeniería+en+Sistemas+de+Información" />
 </p>
 
 ---
