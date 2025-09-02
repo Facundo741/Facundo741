@@ -1,16 +1,17 @@
 <h1 align="center">👋 ¡Hola! Soy Facundo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&lines=💻+Full+Stack+MERN+Developer;📚+Estudiante+de+Ingeniería+en+Sistemas;🚀+Siempre+aprendiendo+nuevas+tecnologías;☕+Café+y+código+van+de+la+mano" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&lines=💻+Full+Stack+MERN+Developer;📚+Estudiante+de+Ingeniería+en+Sistemas;🚀+Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
-- ✨ **Creando bugs desde:** 2020  
-- 📚 **Actualmente aprendiendo:** NestJS, Prisma, WebSockets  
-- 🎯 **Objetivo:** Convertirme en arquitecto de software y contribuir a proyectos open source  
-- 🎲 **Fun fact:** Amo aprender cosas nuevas aunque no las use todos los días  
+- 👨‍🎓 Estudiante de **Ingeniería en Sistemas de Información**  
+- 💻 Desarrollador **Full Stack MERN**  
+- 🌱 Actualmente aprendiendo **NestJS**, **Prisma** y **arquitectura de software**  
+- 🔍 Apasionado por crear **soluciones escalables** y aprender tecnologías nuevas  
+- 🎯 Busco crecer como desarrollador backend y aportar a proyectos **open source**
 
 ---
 
@@ -30,14 +31,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="30" />
 </div>
-
----
-
-### 🚀 Un poco más sobre mí
-- 🛠️ Fan del **MERN stack** y siempre aprendiendo algo nuevo.  
-- 🎨 Me gusta que el código sea **limpio y escalable**.  
-- 🌍 Sueño con trabajar en proyectos **open source** y productos globales.  
-- 🎵 Mientras programo, escucho música para entrar en flow.  
 
 ---
 
