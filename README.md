@@ -1,17 +1,15 @@
 <h1 align="center">👋 ¡Hola! Soy Facundo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&lines=💻+Full+Stack+MERN+Developer;📚+Estudiante+de+Ingeniería+en+Sistemas;🚀+Siempre+aprendiendo+nuevas+tecnologías" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&lines=💻+Full+Stack+MERN+;📚+Estudiante+de+Ingeniería+en+Sistemas;" />
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
-- 👨‍🎓 Estudiante de **Ingeniería en Sistemas de Información**  
-- 💻 Desarrollador **Full Stack MERN**  
-- 🌱 Actualmente aprendiendo **NestJS**, **Prisma** y **arquitectura de software**  
-- 🔍 Apasionado por crear **soluciones escalables** y aprender tecnologías nuevas  
-- 🎯 Busco crecer como desarrollador backend y aportar a proyectos **open source**
+- 🔥 Actualmente estoy enfocado en el **backend** y aprendiendo **NestJS**, **Prisma** y conceptos de **arquitectura de software**  
+- 🚀 Me gusta la idea de colaborar en proyectos nuevos y seguir sumando experiencia  
+- 💡 Tengo mucho interés en **bases de datos**, **microservicios** y siempre estoy buscando aprender más  
 
 ---
 
@@ -39,11 +37,5 @@
   <a href="https://www.linkedin.com/in/fnsantillan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fnsantillan&label=Visitas&color=brightgreen&style=flat-square" alt="visitas" />
 </p>
 
