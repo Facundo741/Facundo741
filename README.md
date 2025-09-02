@@ -1,15 +1,16 @@
 <h1 align="center">👋 ¡Hola! Soy Facundo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&lines=💻+Full+Stack+MERN+;📚+Estudiante+de+Ingeniería+en+Sistemas;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&lines=💻+Desarrollador+Backend+;📚+Estudiante+de+Ingeniería+en+Sistemas;" />
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
-- 🔥 Actualmente estoy enfocado en el **backend** y aprendiendo **NestJS**, **Prisma** y conceptos de **arquitectura de software**  
-- 🚀 Me gusta la idea de colaborar en proyectos nuevos y seguir sumando experiencia  
-- 💡 Tengo mucho interés en **bases de datos**, **microservicios** y siempre estoy buscando aprender más  
+- 💻 Soy desarrollador **Full Stack MERN**, aunque últimamente me estoy inclinando más al **Desarrollo Backend**  
+- 🔥 Ahora estoy aprendiendo **NestJS**, **Prisma** y conceptos de **arquitectura de software**  
+- 🚀 Me interesa colaborar en proyectos nuevos y seguir sumando experiencia
+- 💡 Siempre con ganas de seguir aprendiendo, especialmente sobre **bases de datos** y **microservicios**  
 
 ---
 
