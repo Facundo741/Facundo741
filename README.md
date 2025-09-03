@@ -8,9 +8,9 @@
 
 ### 🧑‍💻 Sobre mí
 - 💻 Soy desarrollador **Full Stack MERN**, aunque últimamente me estoy inclinando más al **Desarrollo Backend**  
-- 🔥 Ahora estoy aprendiendo **NestJS**, **Prisma** y conceptos de **arquitectura de software**  
+- 🔥 Explorando nuevas tecnologías y conceptos para ser un mejor desarrollador
 - 🚀 Me interesa colaborar en proyectos nuevos y seguir sumando experiencia
-- 💡 Siempre con ganas de seguir aprendiendo, especialmente sobre **bases de datos** y **microservicios**  
+- 💡 Siempre con ganas de seguir aprendiendo
 
 ---
 
